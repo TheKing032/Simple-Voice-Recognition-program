@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\bin\Debug\SpeekPlease.exe.config
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\bin\Debug\SpeekPlease.exe
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\bin\Debug\SpeekPlease.pdb
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.Form1.resources
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.Properties.Resources.resources
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.exe
+C:\Users\pc\source\repos\SpeekPlease\SpeekPlease\obj\Debug\SpeekPlease.pdb
